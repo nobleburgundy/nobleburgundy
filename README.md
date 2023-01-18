@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nobleburgundy
-- 👀 I’m interested in a full stack development job.
-- 🌱 I’m currently learning more about React and Machine Learning.
+- 👀 I’m a full stack developer.
+- 🌱 I’m currently learning more about AI and Machine Learning.
 - 💞️ I’m looking to collaborate on any music based projects.
 - 📫 How to reach me nobleburgundy@gmail.com.
 
